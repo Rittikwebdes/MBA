@@ -1,1 +1,1 @@
-export const BACK_END_URL = "http://localhost:4001"
+export const BACK_END_URL = "https://mba-fgjk.onrender.com"
